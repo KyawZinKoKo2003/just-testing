@@ -1,2 +1,2 @@
-# just-testing
+# msf installer
 metasploit framework installer for termux
