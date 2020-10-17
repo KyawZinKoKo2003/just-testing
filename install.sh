@@ -1,3 +1,4 @@
+clear
 echo -e "\e[32m 
 
           _______  _______ 
@@ -10,6 +11,5 @@ echo -e "\e[32m
 |/     \|\_______)\_______)
                            
 "
-clear 
 pkg install unstable-repo
 pkg install metasploit
